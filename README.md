@@ -15,6 +15,13 @@ Welcome to the **Guess the Number Game**! In this exciting game, you will try to
 3. Click on the correct numbers to earn points. Each correct click awards you 10 points!
 4. Keep an eye on the timer! You have 60 seconds to score as high as possible.
 
+## Game Website Images
+Start
+![Screenshot 2024-10-04 172639](https://github.com/user-attachments/assets/c2f82558-735d-4c73-8872-b89dfc858ea6)
+End
+![Screenshot 2024-10-04 172741](https://github.com/user-attachments/assets/40ca93a4-14da-4c00-8529-ce7a4e6291d8)
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps:
